@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ajjulamoria2
-- 👀 I’m interested in $STT
+- 👀 I’m interested in $ETH
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate 
 
 
 <!---
